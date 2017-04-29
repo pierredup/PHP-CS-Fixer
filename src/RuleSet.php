@@ -39,6 +39,7 @@ final class RuleSet implements RuleSetInterface
             'lowercase_constants' => true,
             'lowercase_keywords' => true,
             'method_argument_space' => true,
+            'multiline_function' => true,
             'no_closing_tag' => true,
             'no_spaces_after_function_name' => true,
             'no_spaces_inside_parenthesis' => true,

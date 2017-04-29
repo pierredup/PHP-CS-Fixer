@@ -559,6 +559,10 @@ Choose from the list of available rules:
 
   *Risky rule: risky if any of the functions ``intval``, ``floatval``, ``doubleval``, ``strval`` or ``boolval`` are overridden.*
 
+* **multiline_function** [@PSR2, @Symfony]
+
+  Split argument list across multiple lines.
+
 * **native_function_casing** [@Symfony]
 
   Function defined by PHP should be called using the correct casing.
